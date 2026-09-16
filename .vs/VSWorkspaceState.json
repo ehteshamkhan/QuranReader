@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\dist"
   ],
-  "SelectedNode": "\\dist",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }

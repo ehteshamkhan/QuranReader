@@ -110,31 +110,6 @@ const TAJWEED_RULES = {
   }
 };
 
-function sortSurahsAscending(surahs) {
-  if (!Array.isArray(surahs)) {
-    return [];
-  }
-
-  return [...surahs].sort((a, b) => {
-    const aNumber = Number(
-      a?.surah ??
-      a?.id ??
-      a?.chapter_number ??
-      a?.chapterNumber ??
-      0
-    );
-
-    const bNumber = Number(
-      b?.surah ??
-      b?.id ??
-      b?.chapter_number ??
-      b?.chapterNumber ??
-      0
-    );
-
-    return aNumber - bNumber;
-  });
-}
 function readStorage(key, fallback) {
   try {
     const value = window.localStorage.getItem(key);
@@ -437,7 +412,7 @@ function App() {
         }
 
         if (!cancelled) {
-          setSurahs(sortSurahsAscending(data));
+          setSurahs(data);
 
           const requested = new URLSearchParams(window.location.search).get(
             "surah"
