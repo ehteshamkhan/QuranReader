@@ -1,0 +1,74 @@
+{
+  "surah": 100,
+  "verses": [
+    {
+      "id": 6147,
+      "verse_key": "100:1",
+      "text_uthmani": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "text_uthmani_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>دِيَ<tajweed class=madda_normal>ـٰ</tajweed>تِ ضَ<tajweed class=qalaqah>بْ</tajweed>حًا ١"
+    },
+    {
+      "id": 6148,
+      "verse_key": "100:2",
+      "text_uthmani": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "text_uthmani_tajweed": "فَ<tajweed class=ham_wasl>ٱ</tajweed>لْمُورِيَ<tajweed class=madda_normal>ـٰ</tajweed>تِ قَ<tajweed class=qalaqah>دْ</tajweed>حًا ٢"
+    },
+    {
+      "id": 6149,
+      "verse_key": "100:3",
+      "text_uthmani": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "text_uthmani_tajweed": "فَ<tajweed class=ham_wasl>ٱ</tajweed>لْمُغِير<tajweed class=madda_normal>َٲ</tajweed>تِ صُ<tajweed class=qalaqah>بْ</tajweed>حًا ٣"
+    },
+    {
+      "id": 6150,
+      "verse_key": "100:4",
+      "text_uthmani": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "text_uthmani_tajweed": "فَأَثَرْنَ بِه<tajweed class=madda_normal>ِۦ</tajweed> نَ<tajweed class=qalaqah>قْ</tajweed>عًا ٤"
+    },
+    {
+      "id": 6151,
+      "verse_key": "100:5",
+      "text_uthmani": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "text_uthmani_tajweed": "فَوَسَ<tajweed class=qalaqah>طْ</tajweed>نَ بِه<tajweed class=madda_normal>ِۦ</tajweed> جَمْعًا ٥"
+    },
+    {
+      "id": 6152,
+      "verse_key": "100:6",
+      "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نَ لِرَبِّه<tajweed class=madda_normal>ِۦ</tajweed> لَكَن<tajweed class=madda_permissible>ُو</tajweed><tajweed class=qalaqah>د</tajweed>ٌ ٦"
+    },
+    {
+      "id": 6153,
+      "verse_key": "100:7",
+      "text_uthmani": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "text_uthmani_tajweed": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> عَلَىٰ ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَشَه<tajweed class=madda_permissible>ِي</tajweed><tajweed class=qalaqah>د</tajweed>ٌ ٧"
+    },
+    {
+      "id": 6154,
+      "verse_key": "100:8",
+      "text_uthmani": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "text_uthmani_tajweed": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> لِحُبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْخَيْرِ لَشَد<tajweed class=madda_permissible>ِي</tajweed><tajweed class=qalaqah>د</tajweed>ٌ ٨"
+    },
+    {
+      "id": 6155,
+      "verse_key": "100:9",
+      "text_uthmani": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "text_uthmani_tajweed": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى <tajweed class=ham_wasl>ٱ</tajweed>لْقُب<tajweed class=madda_permissible>ُو</tajweed>رِ ٩"
+    },
+    {
+      "id": 6156,
+      "verse_key": "100:10",
+      "text_uthmani": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "text_uthmani_tajweed": "وَحُصِّلَ مَا فِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صُّد<tajweed class=madda_permissible>ُو</tajweed>رِ ١٠"
+    },
+    {
+      "id": 6157,
+      "verse_key": "100:11",
+      "text_uthmani": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِهِمْ يَوْمَئِ<tajweed class=idgham_wo_ghunnah>ذٍ ل</tajweed>َّخَب<tajweed class=madda_permissible>ِي</tajweed>رُۢ ١١"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:34.1725967Z"
+}

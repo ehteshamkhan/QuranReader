@@ -1,0 +1,44 @@
+{
+  "surah": 109,
+  "verses": [
+    {
+      "id": 6208,
+      "verse_key": "109:1",
+      "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "text_uthmani_tajweed": "قُلْ يَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>أَيُّهَا <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِر<tajweed class=madda_permissible>ُو</tajweed>نَ ١"
+    },
+    {
+      "id": 6209,
+      "verse_key": "109:2",
+      "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "text_uthmani_tajweed": "ل<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُدُ مَا تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ ٢"
+    },
+    {
+      "id": 6210,
+      "verse_key": "109:3",
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_uthmani_tajweed": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>ُمْ عَ<tajweed class=madda_normal>ـٰ</tajweed>بِدُونَ م<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُ<tajweed class=qalaqah>د</tajweed>ُ ٣"
+    },
+    {
+      "id": 6211,
+      "verse_key": "109:4",
+      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "text_uthmani_tajweed": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَنَا۟ عَابِ<tajweed class=idgham_ghunnah>دٌ م</tajweed>َّا عَبَ<tajweed class=idgham_mutajanisayn>د</tajweed>تُّمْ ٤"
+    },
+    {
+      "id": 6212,
+      "verse_key": "109:5",
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_uthmani_tajweed": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>ُمْ عَ<tajweed class=madda_normal>ـٰ</tajweed>بِدُونَ م<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُ<tajweed class=qalaqah>د</tajweed>ُ ٥"
+    },
+    {
+      "id": 6213,
+      "verse_key": "109:6",
+      "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "text_uthmani_tajweed": "لَكُمْ دِينُكُمْ وَلِىَ د<tajweed class=madda_permissible>ِي</tajweed>نِ ٦"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:37.8405445Z"
+}

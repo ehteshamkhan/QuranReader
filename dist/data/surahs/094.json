@@ -1,0 +1,56 @@
+{
+  "surah": 94,
+  "verses": [
+    {
+      "id": 6091,
+      "verse_key": "94:1",
+      "text_uthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "text_uthmani_tajweed": "أَلَمْ نَشْرَحْ لَكَ صَ<tajweed class=qalaqah>دْ</tajweed>رَكَ ١"
+    },
+    {
+      "id": 6092,
+      "verse_key": "94:2",
+      "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "text_uthmani_tajweed": "وَوَضَعْنَا عَ<tajweed class=ikhafa>نك</tajweed>َ وِزْرَكَ ٢"
+    },
+    {
+      "id": 6093,
+      "verse_key": "94:3",
+      "text_uthmani": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "text_uthmani_tajweed": "ٱلَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَ<tajweed class=ikhafa>نق</tajweed>َضَ ظَهْرَكَ ٣"
+    },
+    {
+      "id": 6094,
+      "verse_key": "94:4",
+      "text_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "text_uthmani_tajweed": "وَرَفَعْنَا لَكَ ذِكْرَكَ ٤"
+    },
+    {
+      "id": 6095,
+      "verse_key": "94:5",
+      "text_uthmani": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "text_uthmani_tajweed": "فَإِ<tajweed class=ghunnah>نّ</tajweed>َ مَعَ <tajweed class=ham_wasl>ٱ</tajweed>لْعُسْرِ يُسْرًا ٥"
+    },
+    {
+      "id": 6096,
+      "verse_key": "94:6",
+      "text_uthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ مَعَ <tajweed class=ham_wasl>ٱ</tajweed>لْعُسْرِ يُسْرًا ٦"
+    },
+    {
+      "id": 6097,
+      "verse_key": "94:7",
+      "text_uthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "text_uthmani_tajweed": "فَإِذَا فَرَغْتَ فَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نص</tajweed>َ<tajweed class=qalaqah>بْ</tajweed> ٧"
+    },
+    {
+      "id": 6098,
+      "verse_key": "94:8",
+      "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "text_uthmani_tajweed": "وَإِلَىٰ رَبِّكَ فَ<tajweed class=ham_wasl>ٱ</tajweed>رْغَ<tajweed class=qalaqah>ب</tajweed> ٨"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:31.6226334Z"
+}

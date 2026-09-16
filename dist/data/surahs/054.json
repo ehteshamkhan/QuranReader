@@ -1,0 +1,338 @@
+{
+  "surah": 54,
+  "verses": [
+    {
+      "id": 4847,
+      "verse_key": "54:1",
+      "text_uthmani": " ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+      "text_uthmani_tajweed": "ٱ<tajweed class=qalaqah>قْ</tajweed>تَرَبَتِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّاعَةُ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نش</tajweed>َقَّ <tajweed class=ham_wasl>ٱ</tajweed>لْقَمَرُ ١"
+    },
+    {
+      "id": 4848,
+      "verse_key": "54:2",
+      "text_uthmani": "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ",
+      "text_uthmani_tajweed": "وَإ<tajweed class=idgham_ghunnah>ِن ي</tajweed>َرَوْ<tajweed class=slnt>اْ</tajweed> ءَايَ<tajweed class=idgham_ghunnah>ةً ي</tajweed>ُعْرِضُو<tajweed class=slnt>اْ</tajweed> وَيَقُولُو<tajweed class=slnt>اْ</tajweed> سِحْ<tajweed class=idgham_ghunnah>رٌ م</tajweed>ُّسْتَمِرٌّ ٢"
+    },
+    {
+      "id": 4849,
+      "verse_key": "54:3",
+      "text_uthmani": "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ",
+      "text_uthmani_tajweed": "وَكَذَّبُو<tajweed class=slnt>اْ</tajweed> وَ<tajweed class=ham_wasl>ٱ</tajweed>تَّبَع<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَهْو<tajweed class=madda_obligatory>َا</tajweed>ٓءَهُمْ‌ۚ وَكُلُّ أَمْ<tajweed class=idgham_ghunnah>رٍ م</tajweed>ُّسْتَقِرٌّ ٣"
+    },
+    {
+      "id": 4850,
+      "verse_key": "54:4",
+      "text_uthmani": "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> ج<tajweed class=madda_obligatory>َا</tajweed>ٓءَه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=iqlab>نۢب</tajweed><tajweed class=madda_obligatory>َا</tajweed>ٓءِ مَا فِيهِ مُزْدَجَرٌ ٤"
+    },
+    {
+      "id": 4851,
+      "verse_key": "54:5",
+      "text_uthmani": "حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ",
+      "text_uthmani_tajweed": "حِكْمَ<tajweed class=iqlab>ةُۢ ب</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>لِغَ<tajweed class=ikhafa>ةٌ‌ۖ ف</tajweed>َمَا تُغْنِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>ُذُرُ ٥"
+    },
+    {
+      "id": 4852,
+      "verse_key": "54:6",
+      "text_uthmani": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ",
+      "text_uthmani_tajweed": "فَتَوَلَّ عَنْهُمْ‌ۘ يَوْمَ يَ<tajweed class=qalaqah>دْ</tajweed>عُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>دَّاعِ إِلَىٰ ش<tajweed class=idgham_ghunnah>َىْءٍ ن</tajweed>ُّكُرٍ ٦"
+    },
+    {
+      "id": 4853,
+      "verse_key": "54:7",
+      "text_uthmani": "خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ",
+      "text_uthmani_tajweed": "خُشَّعًا أَ<tajweed class=qalaqah>بْ</tajweed>صَ<tajweed class=madda_normal>ـٰ</tajweed>رُهُمْ يَخْرُجُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>جْ</tajweed>دَاثِ كَأَ<tajweed class=ghunnah>نّ</tajweed>َهُمْ جَرَا<tajweed class=idgham_ghunnah>دٌ م</tajweed>ُّ<tajweed class=ikhafa>نت</tajweed>َشِرٌ ٧"
+    },
+    {
+      "id": 4854,
+      "verse_key": "54:8",
+      "text_uthmani": "مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ",
+      "text_uthmani_tajweed": "مُّهْطِعِينَ إِلَى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>دَّاعِ‌ۖ يَقُولُ <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِرُونَ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذَا يَوْمٌ عَسِرٌ ٨"
+    },
+    {
+      "id": 4855,
+      "verse_key": "54:9",
+      "text_uthmani": "۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ",
+      "text_uthmani_tajweed": "۞ كَذَّبَتْ قَ<tajweed class=qalaqah>بْ</tajweed>لَهُمْ قَوْمُ نُو<tajweed class=ikhafa>حٍ ف</tajweed>َكَذَّبُو<tajweed class=slnt>اْ</tajweed> عَ<tajweed class=qalaqah>بْ</tajweed>دَنَا وَقَالُو<tajweed class=slnt>اْ</tajweed> مَ<tajweed class=qalaqah>جْ</tajweed>نُو<tajweed class=idgham_ghunnah>نٌ و</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed>زْدُجِرَ ٩"
+    },
+    {
+      "id": 4856,
+      "verse_key": "54:10",
+      "text_uthmani": "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ",
+      "text_uthmani_tajweed": "فَدَعَا رَبَّهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> أَ<tajweed class=ghunnah>نّ</tajweed>ِى مَغْلُو<tajweed class=ikhafa>بٌ ف</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نت</tajweed>َصِرْ ١٠"
+    },
+    {
+      "id": 4857,
+      "verse_key": "54:11",
+      "text_uthmani": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ",
+      "text_uthmani_tajweed": "فَفَتَحْن<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=qalaqah>بْ</tajweed>و<tajweed class=madda_normal>َٲ</tajweed>بَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّم<tajweed class=madda_obligatory>َا</tajweed>ٓءِ بِم<tajweed class=madda_obligatory>َا</tajweed>ٓ<tajweed class=idgham_ghunnah>ءٍ م</tajweed>ُّنْهَمِرٍ ١١"
+    },
+    {
+      "id": 4858,
+      "verse_key": "54:12",
+      "text_uthmani": "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ",
+      "text_uthmani_tajweed": "وَفَجَّرْنَا <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضَ عُيُو<tajweed class=ikhafa>نًا ف</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed>لْتَقَى <tajweed class=ham_wasl>ٱ</tajweed>لْم<tajweed class=madda_obligatory>َا</tajweed>ٓءُ عَلَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَمْ<tajweed class=ikhafa>رٍ ق</tajweed>َ<tajweed class=qalaqah>دْ</tajweed> قُدِرَ ١٢"
+    },
+    {
+      "id": 4859,
+      "verse_key": "54:13",
+      "text_uthmani": "وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ",
+      "text_uthmani_tajweed": "وَحَمَلْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ عَلَىٰ ذَاتِ أَلْو<tajweed class=madda_normal>َٲ</tajweed><tajweed class=idgham_ghunnah>حٍ و</tajweed>َدُسُرٍ ١٣"
+    },
+    {
+      "id": 4860,
+      "verse_key": "54:14",
+      "text_uthmani": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+      "text_uthmani_tajweed": "تَ<tajweed class=qalaqah>جْ</tajweed>رِى بِأَعْيُنِنَا جَز<tajweed class=madda_obligatory>َا</tajweed>ٓ<tajweed class=idgham_wo_ghunnah>ءً ل</tajweed>ِّمَ<tajweed class=ikhafa>ن ك</tajweed>َانَ كُفِرَ ١٤"
+    },
+    {
+      "id": 4861,
+      "verse_key": "54:15",
+      "text_uthmani": "وَلَقَد تَّرَكْنَـٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=idgham_mutajanisayn>د</tajweed> تَّرَكْنَ<tajweed class=madda_normal>ـٰ</tajweed>ه<tajweed class=madda_obligatory>َآ</tajweed> ءَايَ<tajweed class=ikhafa>ةً ف</tajweed>َهَلْ م<tajweed class=idgham_ghunnah>ِن م</tajweed>ُّدَّكِرٍ ١٥"
+    },
+    {
+      "id": 4862,
+      "verse_key": "54:16",
+      "text_uthmani": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "text_uthmani_tajweed": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ ١٦"
+    },
+    {
+      "id": 4863,
+      "verse_key": "54:17",
+      "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> يَسَّرْنَا <tajweed class=ham_wasl>ٱ</tajweed>لْقُرْءَانَ لِلذِّكْرِ فَهَلْ م<tajweed class=idgham_ghunnah>ِن م</tajweed>ُّدَّكِرٍ ١٧"
+    },
+    {
+      "id": 4864,
+      "verse_key": "54:18",
+      "text_uthmani": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "text_uthmani_tajweed": "كَذَّبَتْ عَا<tajweed class=ikhafa>دٌ ف</tajweed>َكَيْفَ كَانَ عَذَابِى وَنُذُرِ ١٨"
+    },
+    {
+      "id": 4865,
+      "verse_key": "54:19",
+      "text_uthmani": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَرْسَلْنَا عَلَيْهِمْ رِي<tajweed class=ikhafa>حًا ص</tajweed>َرْصَ<tajweed class=ikhafa>رًا ف</tajweed>ِى يَوْمِ نَحْ<tajweed class=idgham_ghunnah>سٍ م</tajweed>ُّسْتَمِرٍّ ١٩"
+    },
+    {
+      "id": 4866,
+      "verse_key": "54:20",
+      "text_uthmani": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ",
+      "text_uthmani_tajweed": "تَ<tajweed class=ikhafa>نز</tajweed>ِعُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاسَ كَأَ<tajweed class=ghunnah>نّ</tajweed>َهُمْ أَعْجَازُ نَخْ<tajweed class=idgham_ghunnah>لٍ م</tajweed>ُّ<tajweed class=ikhafa>نق</tajweed>َعِرٍ ٢٠"
+    },
+    {
+      "id": 4867,
+      "verse_key": "54:21",
+      "text_uthmani": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "text_uthmani_tajweed": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ ٢١"
+    },
+    {
+      "id": 4868,
+      "verse_key": "54:22",
+      "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> يَسَّرْنَا <tajweed class=ham_wasl>ٱ</tajweed>لْقُرْءَانَ لِلذِّكْرِ فَهَلْ م<tajweed class=idgham_ghunnah>ِن م</tajweed>ُّدَّكِرٍ ٢٢"
+    },
+    {
+      "id": 4869,
+      "verse_key": "54:23",
+      "text_uthmani": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+      "text_uthmani_tajweed": "كَذَّبَتْ ثَمُودُ بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>ُذُرِ ٢٣"
+    },
+    {
+      "id": 4870,
+      "verse_key": "54:24",
+      "text_uthmani": "فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَـٰلٍ وَسُعُرٍ",
+      "text_uthmani_tajweed": "فَقَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَبَشَ<tajweed class=idgham_ghunnah>رًا م</tajweed>ِّ<tajweed class=ghunnah>نّ</tajweed>َا و<tajweed class=madda_normal>َٲ</tajweed>حِ<tajweed class=idgham_ghunnah>دًا ن</tajweed>َّتَّبِعُهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=idgham_wo_ghunnah>ذًا ل</tajweed>َّفِى ضَلَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>لٍ و</tajweed>َسُعُرٍ ٢٤"
+    },
+    {
+      "id": 4871,
+      "verse_key": "54:25",
+      "text_uthmani": "أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ",
+      "text_uthmani_tajweed": "أَءُلْقِىَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ذِّكْرُ عَلَيْهِ م<tajweed class=iqlab>ِنۢ ب</tajweed>َيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ ٢٥"
+    },
+    {
+      "id": 4872,
+      "verse_key": "54:26",
+      "text_uthmani": "سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ",
+      "text_uthmani_tajweed": "سَيَعْلَمُونَ غَ<tajweed class=idgham_ghunnah>دًا م</tajweed>َّنِ <tajweed class=ham_wasl>ٱ</tajweed>لْكَذَّابُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَشِرُ ٢٦"
+    },
+    {
+      "id": 4873,
+      "verse_key": "54:27",
+      "text_uthmani": "إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َا مُرْسِلُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاقَةِ فِتْنَ<tajweed class=idgham_wo_ghunnah>ةً ل</tajweed>َّهُمْ فَ<tajweed class=ham_wasl>ٱ</tajweed>رْتَقِ<tajweed class=qalaqah>بْ</tajweed>هُمْ وَ<tajweed class=ham_wasl>ٱ</tajweed>صْطَبِرْ ٢٧"
+    },
+    {
+      "id": 4874,
+      "verse_key": "54:28",
+      "text_uthmani": "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ",
+      "text_uthmani_tajweed": "وَنَبِّئْهُمْ أَ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْم<tajweed class=madda_obligatory>َا</tajweed>ٓءَ قِسْمَ<tajweed class=iqlab>ةُۢ ب</tajweed>َيْنَهُمْ‌ۖ كُلُّ شِرْ<tajweed class=idgham_ghunnah>بٍ م</tajweed>ُّحْتَضَرٌ ٢٨"
+    },
+    {
+      "id": 4875,
+      "verse_key": "54:29",
+      "text_uthmani": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+      "text_uthmani_tajweed": "فَنَادَوْ<tajweed class=slnt>اْ</tajweed> صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ ٢٩"
+    },
+    {
+      "id": 4876,
+      "verse_key": "54:30",
+      "text_uthmani": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "text_uthmani_tajweed": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ ٣٠"
+    },
+    {
+      "id": 4877,
+      "verse_key": "54:31",
+      "text_uthmani": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَرْسَلْنَا عَلَيْهِمْ صَيْحَ<tajweed class=idgham_ghunnah>ةً و</tajweed><tajweed class=madda_normal>َٲ</tajweed>حِدَ<tajweed class=ikhafa>ةً ف</tajweed>َكَانُو<tajweed class=slnt>اْ</tajweed> كَهَشِيمِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُحْتَظِرِ ٣١"
+    },
+    {
+      "id": 4878,
+      "verse_key": "54:32",
+      "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> يَسَّرْنَا <tajweed class=ham_wasl>ٱ</tajweed>لْقُرْءَانَ لِلذِّكْرِ فَهَلْ م<tajweed class=idgham_ghunnah>ِن م</tajweed>ُّدَّكِرٍ ٣٢"
+    },
+    {
+      "id": 4879,
+      "verse_key": "54:33",
+      "text_uthmani": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+      "text_uthmani_tajweed": "كَذَّبَتْ قَوْمُ لُو<tajweed class=iqlab>طِۭ ب</tajweed>ِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>ُذُرِ ٣٣"
+    },
+    {
+      "id": 4880,
+      "verse_key": "54:34",
+      "text_uthmani": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَـٰهُم بِسَحَرٍ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلّ<tajweed class=madda_obligatory>َآ</tajweed> ءَالَ لُو<tajweed class=idgham_ghunnah>طٍ‌ۖ ن</tajweed>َّجَّيْنَ<tajweed class=madda_normal>ـٰ</tajweed>ه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِسَحَرٍ ٣٤"
+    },
+    {
+      "id": 4881,
+      "verse_key": "54:35",
+      "text_uthmani": "نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+      "text_uthmani_tajweed": "نِّعْمَ<tajweed class=idgham_ghunnah>ةً م</tajweed>ِّنْ عِ<tajweed class=ikhafa>ند</tajweed>ِنَا‌ۚ كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ نَ<tajweed class=qalaqah>جْ</tajweed>زِى مَ<tajweed class=ikhafa>ن ش</tajweed>َكَرَ ٣٥"
+    },
+    {
+      "id": 4882,
+      "verse_key": "54:36",
+      "text_uthmani": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> أَ<tajweed class=ikhafa>نذ</tajweed>َرَه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>َ<tajweed class=qalaqah>طْ</tajweed>شَتَنَا فَتَمَارَوْ<tajweed class=slnt>اْ</tajweed> بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>ُذُرِ ٣٦"
+    },
+    {
+      "id": 4883,
+      "verse_key": "54:37",
+      "text_uthmani": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> ر<tajweed class=madda_normal>َٲ</tajweed>وَدُوهُ عَ<tajweed class=ikhafa>ن ض</tajweed>َيْفِه<tajweed class=madda_normal>ِۦ</tajweed> فَطَمَسْن<tajweed class=madda_obligatory>َآ</tajweed> أَعْيُنَهُمْ فَذُوقُو<tajweed class=slnt>اْ</tajweed> عَذَابِى وَنُذُرِ ٣٧"
+    },
+    {
+      "id": 4884,
+      "verse_key": "54:38",
+      "text_uthmani": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> صَبَّحَه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ُكْرَةً عَذَا<tajweed class=idgham_ghunnah>بٌ م</tajweed>ُّسْتَقِرٌّ ٣٨"
+    },
+    {
+      "id": 4885,
+      "verse_key": "54:39",
+      "text_uthmani": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "text_uthmani_tajweed": "فَذُوقُو<tajweed class=slnt>اْ</tajweed> عَذَابِى وَنُذُرِ ٣٩"
+    },
+    {
+      "id": 4886,
+      "verse_key": "54:40",
+      "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> يَسَّرْنَا <tajweed class=ham_wasl>ٱ</tajweed>لْقُرْءَانَ لِلذِّكْرِ فَهَلْ م<tajweed class=idgham_ghunnah>ِن م</tajweed>ُّدَّكِرٍ ٤٠"
+    },
+    {
+      "id": 4887,
+      "verse_key": "54:41",
+      "text_uthmani": "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> ج<tajweed class=madda_obligatory>َا</tajweed>ٓءَ ءَالَ فِرْعَوْنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>ُذُرُ ٤١"
+    },
+    {
+      "id": 4888,
+      "verse_key": "54:42",
+      "text_uthmani": "كَذَّبُوا۟ بِـَٔايَـٰتِنَا كُلِّهَا فَأَخَذْنَـٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ",
+      "text_uthmani_tajweed": "كَذَّبُو<tajweed class=slnt>اْ</tajweed> بِـَٔـايَ<tajweed class=madda_normal>ـٰ</tajweed>تِنَا كُلِّهَا فَأَخَذْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُمْ أَخْذَ عَزِي<tajweed class=idgham_ghunnah>زٍ م</tajweed>ُّ<tajweed class=qalaqah>قْ</tajweed>تَدِرٍ ٤٢"
+    },
+    {
+      "id": 4889,
+      "verse_key": "54:43",
+      "text_uthmani": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ",
+      "text_uthmani_tajweed": "أَكُفَّارُكُمْ خَيْ<tajweed class=idgham_ghunnah>رٌ م</tajweed>ِّنْ أُ<tajweed class=slnt>وْ</tajweed>لَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ئِكُمْ أَمْ لَك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>َر<tajweed class=madda_obligatory>َا</tajweed>ٓءَ<tajweed class=ikhafa>ةٌ ف</tajweed>ِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>زُّبُرِ ٤٣"
+    },
+    {
+      "id": 4890,
+      "verse_key": "54:44",
+      "text_uthmani": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ",
+      "text_uthmani_tajweed": "أَمْ يَقُولُونَ نَحْنُ جَمِي<tajweed class=idgham_ghunnah>عٌ م</tajweed>ُّ<tajweed class=ikhafa>نت</tajweed>َصِرٌ ٤٤"
+    },
+    {
+      "id": 4891,
+      "verse_key": "54:45",
+      "text_uthmani": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+      "text_uthmani_tajweed": "سَيُهْزَمُ <tajweed class=ham_wasl>ٱ</tajweed>لْجَمْعُ وَيُوَلُّونَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>دُّبُرَ ٤٥"
+    },
+    {
+      "id": 4892,
+      "verse_key": "54:46",
+      "text_uthmani": "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+      "text_uthmani_tajweed": "بَلِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّاعَةُ مَوْعِدُهُمْ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّاعَةُ أَ<tajweed class=qalaqah>دْ</tajweed>هَىٰ وَأَمَرُّ ٤٦"
+    },
+    {
+      "id": 4893,
+      "verse_key": "54:47",
+      "text_uthmani": "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=qalaqah>جْ</tajweed>رِمِينَ فِى ضَلَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>لٍ و</tajweed>َسُعُرٍ ٤٧"
+    },
+    {
+      "id": 4894,
+      "verse_key": "54:48",
+      "text_uthmani": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+      "text_uthmani_tajweed": "يَوْمَ يُسْحَبُونَ فِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َارِ عَلَىٰ وُجُوهِهِمْ ذُوقُو<tajweed class=slnt>اْ</tajweed> مَسَّ سَقَرَ ٤٨"
+    },
+    {
+      "id": 4895,
+      "verse_key": "54:49",
+      "text_uthmani": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َا كُلَّ شَىْءٍ خَلَ<tajweed class=qalaqah>قْ</tajweed>نَ<tajweed class=madda_normal>ـٰ</tajweed>هُ بِقَدَرٍ ٤٩"
+    },
+    {
+      "id": 4896,
+      "verse_key": "54:50",
+      "text_uthmani": "وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ",
+      "text_uthmani_tajweed": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَمْرُن<tajweed class=madda_obligatory>َآ</tajweed> إِلَّا و<tajweed class=madda_normal>َٲ</tajweed>حِدَ<tajweed class=ikhafa>ةٌ ك</tajweed>َلَمْ<tajweed class=iqlab>حِۭ ب</tajweed>ِ<tajweed class=ham_wasl>ٱ</tajweed>لْبَصَرِ ٥٠"
+    },
+    {
+      "id": 4897,
+      "verse_key": "54:51",
+      "text_uthmani": "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ",
+      "text_uthmani_tajweed": "وَلَقَ<tajweed class=qalaqah>دْ</tajweed> أَهْلَكْن<tajweed class=madda_obligatory>َآ</tajweed> أَشْيَاعَكُمْ فَهَلْ م<tajweed class=idgham_ghunnah>ِن م</tajweed>ُّدَّكِرٍ ٥١"
+    },
+    {
+      "id": 4898,
+      "verse_key": "54:52",
+      "text_uthmani": "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ",
+      "text_uthmani_tajweed": "وَكُلُّ ش<tajweed class=ikhafa>َىْءٍ ف</tajweed>َعَلُوهُ فِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>زُّبُرِ ٥٢"
+    },
+    {
+      "id": 4899,
+      "verse_key": "54:53",
+      "text_uthmani": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ",
+      "text_uthmani_tajweed": "وَكُلُّ صَغِي<tajweed class=idgham_ghunnah>رٍ و</tajweed>َكَبِي<tajweed class=idgham_ghunnah>رٍ م</tajweed>ُّسْتَطَرٌ ٥٣"
+    },
+    {
+      "id": 4900,
+      "verse_key": "54:54",
+      "text_uthmani": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ",
+      "text_uthmani_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْمُتَّقِينَ فِى جَ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ و</tajweed>َنَهَرٍ ٥٤"
+    },
+    {
+      "id": 4901,
+      "verse_key": "54:55",
+      "text_uthmani": "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ",
+      "text_uthmani_tajweed": "فِى مَ<tajweed class=qalaqah>قْ</tajweed>عَدِ صِ<tajweed class=qalaqah>دْ</tajweed>قٍ عِ<tajweed class=ikhafa>ند</tajweed>َ مَلِي<tajweed class=idgham_ghunnah>كٍ م</tajweed>ُّ<tajweed class=qalaqah>قْ</tajweed>تَدِرِۭ ٥٥"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:14.7088436Z"
+}

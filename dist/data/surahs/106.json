@@ -1,0 +1,32 @@
+{
+  "surah": 106,
+  "verses": [
+    {
+      "id": 6194,
+      "verse_key": "106:1",
+      "text_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
+      "text_uthmani_tajweed": "لِإِيلَ<tajweed class=madda_normal>ـٰ</tajweed>فِ قُر<tajweed class=madda_permissible>َي</tajweed>ْشٍ ١"
+    },
+    {
+      "id": 6195,
+      "verse_key": "106:2",
+      "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "text_uthmani_tajweed": "إ<tajweed class=madda_normal>ِۦ</tajweed>لَ<tajweed class=madda_normal>ـٰ</tajweed>فِهِمْ رِحْلَةَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شِّت<tajweed class=madda_obligatory>َا</tajweed>ٓءِ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صّ<tajweed class=madda_permissible>َي</tajweed>ْفِ ٢"
+    },
+    {
+      "id": 6196,
+      "verse_key": "106:3",
+      "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "text_uthmani_tajweed": "فَلْيَعْبُدُو<tajweed class=slnt>اْ</tajweed> رَبَّ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذَا <tajweed class=ham_wasl>ٱ</tajweed>لْب<tajweed class=madda_permissible>َي</tajweed>ْتِ ٣"
+    },
+    {
+      "id": 6197,
+      "verse_key": "106:4",
+      "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "text_uthmani_tajweed": "ٱلَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَ<tajweed class=qalaqah>طْ</tajweed>عَمَه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّ<tajweed class=ikhafa>ن ج</tajweed>ُو<tajweed class=idgham_ghunnah>عٍ و</tajweed>َءَامَنَه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنْ خ<tajweed class=madda_permissible>َو</tajweed>ْفِۭ ٤"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:36.6102272Z"
+}

@@ -1,0 +1,56 @@
+{
+  "surah": 102,
+  "verses": [
+    {
+      "id": 6169,
+      "verse_key": "102:1",
+      "text_uthmani": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "text_uthmani_tajweed": "أَلْهَ<tajweed class=madda_normal>ـٰ</tajweed>كُمُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>تَّكَاثُرُ ١"
+    },
+    {
+      "id": 6170,
+      "verse_key": "102:2",
+      "text_uthmani": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "text_uthmani_tajweed": "حَتَّىٰ زُرْتُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْمَقَابِرَ ٢"
+    },
+    {
+      "id": 6171,
+      "verse_key": "102:3",
+      "text_uthmani": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "text_uthmani_tajweed": "كَلَّا سَوْفَ تَعْلَم<tajweed class=madda_permissible>ُو</tajweed>نَ ٣"
+    },
+    {
+      "id": 6172,
+      "verse_key": "102:4",
+      "text_uthmani": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "text_uthmani_tajweed": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ كَلَّا سَوْفَ تَعْلَم<tajweed class=madda_permissible>ُو</tajweed>نَ ٤"
+    },
+    {
+      "id": 6173,
+      "verse_key": "102:5",
+      "text_uthmani": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "text_uthmani_tajweed": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ <tajweed class=ham_wasl>ٱ</tajweed>لْيَق<tajweed class=madda_permissible>ِي</tajweed>نِ ٥"
+    },
+    {
+      "id": 6174,
+      "verse_key": "102:6",
+      "text_uthmani": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "text_uthmani_tajweed": "لَتَرَوُ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْجَح<tajweed class=madda_permissible>ِي</tajweed>مَ ٦"
+    },
+    {
+      "id": 6175,
+      "verse_key": "102:7",
+      "text_uthmani": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "text_uthmani_tajweed": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ لَتَرَوُ<tajweed class=ghunnah>نّ</tajweed>َهَا عَيْنَ <tajweed class=ham_wasl>ٱ</tajweed>لْيَق<tajweed class=madda_permissible>ِي</tajweed>نِ ٧"
+    },
+    {
+      "id": 6176,
+      "verse_key": "102:8",
+      "text_uthmani": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "text_uthmani_tajweed": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ لَتُسْــَٔلُ<tajweed class=ghunnah>نّ</tajweed>َ يَوْمَئِذٍ عَنِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َع<tajweed class=madda_permissible>ِي</tajweed>مِ ٨"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:34.9955312Z"
+}

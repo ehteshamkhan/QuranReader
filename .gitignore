@@ -4,9 +4,5 @@ node_modules/
 .env.*
 !.env.example
 *.log
-/.vs/QuranReader.slnx/FileContentIndex/742b6986-874b-4353-ac35-1e8d038fca6f.vsidx
-/.vs/QuranReader.slnx/FileContentIndex/077119ee-8af5-4fe9-a550-e02d2462517b.vsidx
-/.vs/QuranReader.slnx/FileContentIndex/4a60e272-c1cb-4093-b548-cf238bfded25.vsidx
-/.vs/QuranReader.slnx/FileContentIndex/1e2e4604-bea4-4463-b482-a7341b67784a.vsidx
-/.vs/QuranReader.slnx/FileContentIndex/d125f71e-5582-41c1-b4de-6762e0297d86.vsidx
-/.vs/QuranReader.slnx/FileContentIndex/7b888957-8c28-4d7b-adbb-7b6dec71cb51.vsidx
+.vs/
+*.slnx.sqlite

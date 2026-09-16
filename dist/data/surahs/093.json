@@ -1,0 +1,74 @@
+{
+  "surah": 93,
+  "verses": [
+    {
+      "id": 6080,
+      "verse_key": "93:1",
+      "text_uthmani": " وَٱلضُّحَىٰ",
+      "text_uthmani_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضُّحَىٰ ١"
+    },
+    {
+      "id": 6081,
+      "verse_key": "93:2",
+      "text_uthmani": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "text_uthmani_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّيْلِ إِذَا سَجَىٰ ٢"
+    },
+    {
+      "id": 6082,
+      "verse_key": "93:3",
+      "text_uthmani": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "text_uthmani_tajweed": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ ٣"
+    },
+    {
+      "id": 6083,
+      "verse_key": "93:4",
+      "text_uthmani": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "text_uthmani_tajweed": "وَلَلْأَخِرَةُ خَيْ<tajweed class=idgham_wo_ghunnah>رٌ ل</tajweed>َّكَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْأُولَىٰ ٤"
+    },
+    {
+      "id": 6084,
+      "verse_key": "93:5",
+      "text_uthmani": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "text_uthmani_tajweed": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ ٥"
+    },
+    {
+      "id": 6085,
+      "verse_key": "93:6",
+      "text_uthmani": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "text_uthmani_tajweed": "أَلَمْ يَجِ<tajweed class=qalaqah>دْ</tajweed>كَ يَتِي<tajweed class=ikhafa>مًا ف</tajweed>َـَٔـاوَىٰ ٦"
+    },
+    {
+      "id": 6086,
+      "verse_key": "93:7",
+      "text_uthmani": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "text_uthmani_tajweed": "وَوَجَدَكَ ضَآل<tajweed class=ikhafa>اًّ ف</tajweed>َهَدَىٰ ٧"
+    },
+    {
+      "id": 6087,
+      "verse_key": "93:8",
+      "text_uthmani": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "text_uthmani_tajweed": "وَوَجَدَكَ ع<tajweed class=madda_obligatory>َا</tajweed>ٓئِل<tajweed class=ikhafa>اً ف</tajweed>َأَغْنَىٰ ٨"
+    },
+    {
+      "id": 6088,
+      "verse_key": "93:9",
+      "text_uthmani": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "text_uthmani_tajweed": "فَأَ<tajweed class=ghunnah>مّ</tajweed>َا <tajweed class=ham_wasl>ٱ</tajweed>لْيَتِيمَ فَلَا تَ<tajweed class=qalaqah>قْ</tajweed>هَرْ ٩"
+    },
+    {
+      "id": 6089,
+      "verse_key": "93:10",
+      "text_uthmani": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "text_uthmani_tajweed": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سّ<tajweed class=madda_obligatory>َا</tajweed>ٓئِلَ فَلَا تَنْهَرْ ١٠"
+    },
+    {
+      "id": 6090,
+      "verse_key": "93:11",
+      "text_uthmani": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "text_uthmani_tajweed": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ ١١"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:31.2146975Z"
+}
