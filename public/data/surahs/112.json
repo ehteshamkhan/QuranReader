@@ -1,0 +1,32 @@
+{
+  "surah": 112,
+  "verses": [
+    {
+      "id": 6222,
+      "verse_key": "112:1",
+      "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "text_uthmani_tajweed": "قُلْ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ أَحَ<tajweed class=qalaqah>د</tajweed>ٌ ١"
+    },
+    {
+      "id": 6223,
+      "verse_key": "112:2",
+      "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+      "text_uthmani_tajweed": "ٱللَّهُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّمَ<tajweed class=qalaqah>د</tajweed>ُ ٢"
+    },
+    {
+      "id": 6224,
+      "verse_key": "112:3",
+      "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "text_uthmani_tajweed": "لَمْ يَلِ<tajweed class=qalaqah>دْ</tajweed> وَلَمْ يُولَ<tajweed class=qalaqah>دْ</tajweed> ٣"
+    },
+    {
+      "id": 6225,
+      "verse_key": "112:4",
+      "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "text_uthmani_tajweed": "وَلَمْ يَك<tajweed class=idgham_wo_ghunnah>ُن ل</tajweed>َّهُ<tajweed class=madda_normal>ۥ</tajweed> كُفُوًا أَحَ<tajweed class=qalaqah>د</tajweed>ُۢ ٤"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:39.0928558Z"
+}

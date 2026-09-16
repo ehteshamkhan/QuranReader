@@ -1,0 +1,10 @@
+{
+  "source": "Quran Foundation Content API",
+  "api_version": "v4",
+  "field": "text_uthmani_tajweed",
+  "environment": "production",
+  "downloaded_at_utc": "2026-09-16T13:15:40.0606501Z",
+  "surah_count": 114,
+  "verse_count": 6236,
+  "surahs_path": "/data/surahs/"
+}

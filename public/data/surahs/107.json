@@ -1,0 +1,50 @@
+{
+  "surah": 107,
+  "verses": [
+    {
+      "id": 6198,
+      "verse_key": "107:1",
+      "text_uthmani": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "text_uthmani_tajweed": "أَرَءَيْتَ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِى يُكَذِّبُ بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>دّ<tajweed class=madda_permissible>ِي</tajweed>نِ ١"
+    },
+    {
+      "id": 6199,
+      "verse_key": "107:2",
+      "text_uthmani": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "text_uthmani_tajweed": "فَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِى يَدُعُّ <tajweed class=ham_wasl>ٱ</tajweed>لْيَت<tajweed class=madda_permissible>ِي</tajweed>مَ ٢"
+    },
+    {
+      "id": 6200,
+      "verse_key": "107:3",
+      "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "text_uthmani_tajweed": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ <tajweed class=ham_wasl>ٱ</tajweed>لْمِسْك<tajweed class=madda_permissible>ِي</tajweed>نِ ٣"
+    },
+    {
+      "id": 6201,
+      "verse_key": "107:4",
+      "text_uthmani": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "text_uthmani_tajweed": "فَوَيْ<tajweed class=idgham_wo_ghunnah>لٌ ل</tajweed>ِّلْمُصَلّ<tajweed class=madda_permissible>ِي</tajweed>نَ ٤"
+    },
+    {
+      "id": 6202,
+      "verse_key": "107:5",
+      "text_uthmani": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "text_uthmani_tajweed": "ٱلَّذِينَ هُمْ عَ<tajweed class=ikhafa>ن ص</tajweed>َلَاتِهِمْ سَاه<tajweed class=madda_permissible>ُو</tajweed>نَ ٥"
+    },
+    {
+      "id": 6203,
+      "verse_key": "107:6",
+      "text_uthmani": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "text_uthmani_tajweed": "ٱلَّذِينَ هُمْ يُر<tajweed class=madda_obligatory>َا</tajweed>ٓء<tajweed class=madda_permissible>ُو</tajweed>نَ ٦"
+    },
+    {
+      "id": 6204,
+      "verse_key": "107:7",
+      "text_uthmani": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "text_uthmani_tajweed": "وَيَمْنَعُونَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَاع<tajweed class=madda_permissible>ُو</tajweed>نَ ٧"
+    }
+  ],
+  "source": "Quran Foundation Content API v4",
+  "field": "text_uthmani_tajweed",
+  "downloaded_at_utc": "2026-09-16T13:15:37.0291371Z"
+}
