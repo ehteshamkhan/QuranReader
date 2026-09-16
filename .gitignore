@@ -1,6 +1,7 @@
 node_modules/
-dist/
+
 .env
 .env.*
 !.env.example
 *.log
+/.vs/QuranReader.slnx/FileContentIndex/742b6986-874b-4353-ac35-1e8d038fca6f.vsidx
